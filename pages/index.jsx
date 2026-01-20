@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Victory Vault – Fair Odds. Real Prizes. No Greed.</title>
+        <title>Victory Vault - Fair Odds. Real Prizes. No Greed.</title>
       </Head>
 
       <header className="flex items-center justify-between p-4 border-b">
