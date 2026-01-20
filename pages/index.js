@@ -1,3 +1,4 @@
+import react from 'react'
 import Head from 'next/head.js'
 import Link from 'next/link'
 
